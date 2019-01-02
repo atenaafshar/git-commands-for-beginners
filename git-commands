@@ -1,0 +1,27 @@
+1.yum install git
+2.git init
+3.git clone "repository address" (https or ssh)
+4.git status
+5.git add -A / git add fileX
+6.git commit -m "massage"
+7.git log
+8.git push origin master
+9.git branch
+10.git branch X
+11.git branch -d X
+12.git checkout X
+13.git remote -v
+14.git remote add X "ripository address" (https or ssh)
+15.git remote rm X
+16.git diff HEAD
+17.git diff --staged
+18.git reset fileX
+19.git checkout -- fileX
+20.git show "commit number"
+21.git tag -a vn -m "massage"
+22.git tag
+23.git push origin vn
+24.git checkout vn
+25.git show vn
+26.git -s/-S tag/commit ...
+

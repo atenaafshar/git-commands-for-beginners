@@ -11,7 +11,7 @@
 11.git branch -d X
 12.git checkout X
 13.git remote -v
-14.git remote add X "ripository address" (https or ssh)
+14.git remote add X "repository address" (https or ssh)
 15.git remote rm X
 16.git diff HEAD
 17.git diff --staged
